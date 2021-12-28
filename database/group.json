@@ -1,0 +1,122 @@
+[
+	{
+		"from": "6281348193387-1599364980@g.us",
+		"offline": false,
+		"welcome": false,
+		"antilink": false,
+		"badword": false,
+		"antidelete": false,
+		"detect": false,
+		"viewOnce": false
+	},
+	{
+		"from": "6281226801016-1632300629@g.us",
+		"offline": false,
+		"welcome": false,
+		"antilink": false,
+		"badword": false,
+		"antidelete": false,
+		"detect": false,
+		"viewOnce": false
+	},
+	{
+		"from": "6282391127922-1609317097@g.us",
+		"offline": false,
+		"welcome": false,
+		"antilink": false,
+		"badword": false,
+		"antidelete": false,
+		"detect": false,
+		"viewOnce": false
+	},
+	{
+		"from": "120363037777450209@g.us",
+		"offline": false,
+		"welcome": false,
+		"antilink": false,
+		"badword": false,
+		"antidelete": false,
+		"detect": false,
+		"viewOnce": false
+	},
+	{
+		"from": "6281233551353-1627019584@g.us",
+		"offline": false,
+		"welcome": false,
+		"antilink": false,
+		"badword": false,
+		"antidelete": false,
+		"detect": false,
+		"viewOnce": false
+	},
+	{
+		"from": "6281366935667-1589504170@g.us",
+		"offline": false,
+		"welcome": false,
+		"antilink": false,
+		"badword": false,
+		"antidelete": false,
+		"detect": false,
+		"viewOnce": false
+	},
+	{
+		"from": "62814622392081-1612339067@g.us",
+		"offline": false,
+		"welcome": false,
+		"antilink": false,
+		"badword": false,
+		"antidelete": false,
+		"detect": false,
+		"viewOnce": false
+	},
+	{
+		"from": "62895327105719-1636126063@g.us",
+		"offline": false,
+		"welcome": false,
+		"antilink": false,
+		"badword": false,
+		"antidelete": false,
+		"detect": false,
+		"viewOnce": false
+	},
+	{
+		"from": "120363019421489912@g.us",
+		"offline": false,
+		"welcome": false,
+		"antilink": false,
+		"badword": false,
+		"antidelete": false,
+		"detect": true,
+		"viewOnce": false
+	},
+	{
+		"from": "120363039215766116@g.us",
+		"offline": false,
+		"welcome": false,
+		"antilink": false,
+		"badword": false,
+		"antidelete": false,
+		"detect": true,
+		"viewOnce": false
+	},
+	{
+		"from": "6285870283315-1630303497@g.us",
+		"offline": false,
+		"welcome": false,
+		"antilink": false,
+		"badword": false,
+		"antidelete": false,
+		"detect": false,
+		"viewOnce": false
+	},
+	{
+		"from": "6285843831997-1619666181@g.us",
+		"offline": false,
+		"welcome": false,
+		"antilink": false,
+		"badword": false,
+		"antidelete": false,
+		"detect": false,
+		"viewOnce": false
+	}
+]
